@@ -37,6 +37,7 @@ global.vhtear = 'LoliHunter'
 global.apiKey = '7ed90d537ab5edddb6ba6465'
 global.BarBarKey = 'IDxO1TFYnKADlX4pxcHa'
 global.lann = '5G4Gdi67' //ganti jadi apikey lu kalau expired
+//=============『 Info 』=================//
 global.wm = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.watermark = wm
 global.wm2 = '『 Kιɳα Bσƚ 』'
