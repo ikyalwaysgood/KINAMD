@@ -25,7 +25,7 @@ Runtime: ${uptime}`
     itemCount : 2024,
     status: 1,
     surface : 1,
-    message: `2024 © ${namebot}, 
+    message: `2024 © ${namebot}`, 
     orderTitle: `Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ`,
     thumbnail: 'https://telegra.ph/file/e518f1ae5447bc820c741.jpg', 
     sellerJid: '0@s.whatsapp.net' 
