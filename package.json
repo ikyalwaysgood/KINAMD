@@ -1,5 +1,5 @@
 {
-    "name": "Diimz-Md",
+    "name": "KinaBot-Md",
     "version": "3.5.4",
     "description": "Simple Bot WhatsApp",
     "depecrated": false,
@@ -17,22 +17,23 @@
     "keywords": [
         "termux-whatsapp-bot",
         "whatsapp-bot",
+        "ikyofficial",
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Hyzerr/MD-V3",
+    "homepage": "https://github.com/ikyalwaysgood/KINAMD",
     "author": {
-        "name": "Elyas"
+        "name": "Iky Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/github.com/Hyzerr/MD-V3.git"
+        "url": "git+https://github.com/ikyalwaysgood/KINAMD.git"
     },
     "bugs": {
-        "url": "https://github.com/github.com/Hyzerr/MD-V3/issues"
+        "url": "https://github.com/ikyalwaysgood/KINAMD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
