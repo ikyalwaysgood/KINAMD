@@ -23,7 +23,20 @@ global.fotonya1 = 'https://telegra.ph/file/ec1342450424ae0bf13ba.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/790865abf3bec9ef356ad.jpg' //ini juga ganti 
 global.btc = 'ikyalwaysgood' //biar mudah ngegantinya semisal apikeynya expired:v
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.zenzkey = 'BagasPrdn' 
+global.xkey = 'd90a9e986e18778b'
+global.xzn = 'konekocyz'
+global.lann = 'p8ADYJib'
+global.xyro = '3WIq7q3CWt'
+global.btc = 'ikyalwaysgood'
+global.xteam = 'MIMINETBOT'
+global.Zeks = 'apivinz'
+global.Caliph = 'FreeApi'
+global.ZeksApi = 'PmzFe9Hq4xYdwha6pxiXd9jgLnh'
+global.vhtear = 'LoliHunter'
+global.apiKey = '7ed90d537ab5edddb6ba6465'
+global.BarBarKey = 'IDxO1TFYnKADlX4pxcHa'
+global.lann = '5G4Gdi67' //ganti jadi apikey lu kalau expired
 global.wm = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.watermark = wm
 global.wm2 = '『 Kιɳα Bσƚ 』'
@@ -66,7 +79,18 @@ global.APIs = { // API Prefix
   lolhuman: 'https://api.lolhuman.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
-  zenz: 'https://zenzapis.xyz/'
+  zenz: 'https://zenzapis.xyz/',
+  xzn: 'https://skizo.tech',
+  lann: 'https://api.betabotz.org', 
+  xyro: 'https://api.xyroinee.xyz',
+  btc: 'https://api.botcahx.eu.org',
+  xteam: 'https://api.xteam.xyz',
+  Zeks: 'https://api.zeks.xyz',
+  Caliph: 'https://caliphapi.com',
+  ZeksApi: 'https://api.zeks.xyz',
+  vhtear: 'https://api.vhtear.com',
+  apiKey: 'https://api.zeks.xyz',
+  BarBarkey: 'https://api.barbar.moe'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -83,6 +107,17 @@ global.APIKeys = { // APIKey Here
   'https://zekais-api.herokuapp.com': 'apikeymu',
   'https://api.lolhuman.xyz': 'Deffbotz',
   'https://zenzapis.xyz/' : 'e87e334de1ea',
+  'https://skizo.tech': 'konekocyz', 
+  'https://api.betabotz.org': 'p8ADYJib', 
+  'https://api.xyroinee.xyz': '3WIq7q3CWt', 
+  'https://api.botcahx.eu.org': 'ikyalwaysgood', 
+  'https://api.xteam.xyz': 'MIMINETBOT', 
+  'https://api.zeks.xyz': 'apivinz', 
+  'https://caliphapi.com': 'FreeApi', 
+  'https://api.zeks.xyz': 'PmzFe9Hq4xYdwha6pxiXd9jgLnh',
+  'https://api.vhtear.com': 'LoliHunter', 
+  'https://api.zeks.xyz': '7ed90d537ab5edddb6ba6465',
+  'https://api.barbar.moe': 'IDxO1TFYnKADlX4pxcHa'
 }
 
 //=============『 RPG GAMES 』================== //
