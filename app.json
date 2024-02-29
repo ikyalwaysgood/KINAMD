@@ -1,11 +1,12 @@
 {
-  "name": "Diimz-Md",
+  "name": "Kina Bot",
   "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+  "repository": "https://github.com/ikyalwaysgood/KINAMD",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": [
     "bot",
     "whatsapp",
+    "iky official",
     "multi-device",
     "whatsapp-bot"
   ]
