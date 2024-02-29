@@ -9,24 +9,25 @@ let handler = async (m, {conn}) => {
         year: 'numeric'
     })
 let anu = `${ucapan()}
-Halo👋
-Ada Yang Bisa Saya Bantu?
-Ketik .menu Untuk Memulai Bot
+Hallo👋
+Ada Yang Bisa Kιɳα Bσƚ Bantu?
+Ketik .menu Untuk Memulai Kιɳα Bσƚ
+Ketik .owner Untuk Menghubungi Owner
 
 Runtime: ${uptime}`
    const ftroli = {
     key : {
-    remoteJid: '6283136505591-1614953337@g.us',
+    remoteJid: '',
     participant : '0@s.whatsapp.net'
     },
     message: {
     orderMessage: {
-    itemCount : 2022,
+    itemCount : 2024,
     status: 1,
     surface : 1,
-    message: `2022 © ${namebot}, 
-    orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    message: `2024 © ${namebot}, 
+    orderTitle: `Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ`,
+    thumbnail: 'https://telegra.ph/file/e518f1ae5447bc820c741.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
