@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-      "name": "Shiro-md",
+      "name": "Kina Bot",
       "version": "3.5.4",
       "description": "Simple Bot WhatsApp",
       "depecrated": false,
@@ -36,6 +36,7 @@ npm manifest:
       "keywords": [
           "termux-whatsapp-bot",
           "whatsapp-bot",
+          "iky official",
           "whatsapp",
           "js-whatsapp",
           "whatsapp",
@@ -44,14 +45,14 @@ npm manifest:
       ],
       "homepage": "https://github.com/Hyzerr/MD-V3",
       "author": {
-          "name": "Elyas"
+          "name": "Iky Official"
       },
       "repository": {
           "type": "git",
-          "url": "git+https://github.com/github.com/Hyzerr/MD-V3.git"
+          "url": "git+https://github.com/ikyalwaysgood/KINAMD.git"
       },
       "bugs": {
-          "url": "https://github.com/github.com/Hyzerr/MD-V3/issues"
+          "url": "https://github.com/ikyalwaysgood/KINAMD/issues"
       },
       "license": "GPL-3.0-or-later",
       "dependencies": {
