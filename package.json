@@ -1,5 +1,5 @@
 {
-    "name": "ikyofficial",
+    "name": "Kιɳα Bσƚ",
     "version": "7.0.1",
     "description": "Lightweight WhatsApp Bot",
     "depecrated": false,
@@ -27,16 +27,16 @@
         "ikyofficial",
         "baileys"
     ],
-    "homepage": "https://github.com/ikyalwaysgood/Iky-MD",
+    "homepage": "https://github.com/ikyalwaysgood/KINAMD",
     "author": {
-        "name": "Kιɳα Bσƚ"
+        "name": "Iky Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ikyalwaysgood/Iky-MD"
+        "url": "git+https://github.com/ikyalwaysgood/KINAMD"
     },
     "bugs": {
-        "url": "https://github.com/ikyalwaysgood/Iky-MD"
+        "url": "https://github.com/ikyalwaysgood/KINAMD"
     },
     "license": "MIT",
     "dependencies": {
