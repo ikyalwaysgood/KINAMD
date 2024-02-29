@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6285794908894'] 
-global.mods = [] 
-global.prems = [] 
+global.mods = ['6285794908894'] 
+global.prems = ['6285794908894'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
@@ -19,8 +19,8 @@ global.web = '-' //ubah jadi website lu, bisa link ig, link github, link yt, klo
 global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/ec1342450424ae0bf13ba.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/790865abf3bec9ef356ad.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
@@ -29,15 +29,15 @@ global.wm2 = '『 Kιɳα Bσƚ 』'
 global.wm3 = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg'
+global.media = 'https://telegra.ph/file/790865abf3bec9ef356ad.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = 'Process...'
 global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stickers In Making...'
-global.packname = 'Fiqz Cuy'
-global.author = '@6283876786535⁩⁩'
+global.packname = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.author = '@6285794908894'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
