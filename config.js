@@ -36,7 +36,8 @@ global.ZeksApi = 'PmzFe9Hq4xYdwha6pxiXd9jgLnh'
 global.vhtear = 'LoliHunter'
 global.apiKey = '7ed90d537ab5edddb6ba6465'
 global.BarBarKey = 'IDxO1TFYnKADlX4pxcHa'
-global.lann = '5G4Gdi67' //ganti jadi apikey lu kalau expired
+global.lann = '5G4Gdi67' 
+
 //=============『 Info 』=================//
 global.wm = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.watermark = wm
