@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6287784720840','6287784720840'] 
+global.owner = ['6285794908894'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Fiqz Cuy'
-global.numberowner = '6287784720840'
-global.instagram = 'https://www.instagram.com/jokowi'
+global.nameowner = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.numberowner = '6285794908894'
+global.instagram = 'https://www.instagram.com/iky_alwaysgood'
 global.github = '-'
-global.dana = '-'
-global.pulsa = '-'
+global.dana = '085794908894'
+global.pulsa = '083164864536'
 global.ovo = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Shikimori'
+global.namebot = 'Kιɳα Bσƚ'
 global.gc = '-'
 global.web = '-' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Shikimori'
+global.wm = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.watermark = wm
-global.wm2 = '                     「 Shiki Mori 」 '
-global.wm3 = 'Fiqz Cuy'
+global.wm2 = '『 Kιɳα Bσƚ 』'
+global.wm3 = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/nL4X9Wjz/Picsart-22-08-04-13-19-11-727.jpg'
