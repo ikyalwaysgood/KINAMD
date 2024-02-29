@@ -21,6 +21,7 @@ global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/ec1342450424ae0bf13ba.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/790865abf3bec9ef356ad.jpg' //ini juga ganti 
+global.btc = 'ikyalwaysgood' //biar mudah ngegantinya semisal apikeynya expired:v
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
@@ -42,8 +43,9 @@ global.author = '@6285794908894'
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
   // name: 'https://website'
+  btc: 'https://api.botcahx.eu.org',
   amel: 'https://melcanz.com',
-    bx: 'https://bx-hunter.herokuapp.com',
+  bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
   hardianto: 'https://hardianto-chan.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -68,6 +70,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
+  'https://api.botcahx.eu.org': 'ikyalwaysgood',
   'https://melcanz.com': 'irsantod',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://api.xteam.xyz': 'd37372311698ed1d',
