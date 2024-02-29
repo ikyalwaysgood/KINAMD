@@ -12,7 +12,7 @@ let handler = async (m, { conn, command, args }) => {
     surface : 1,
     message: 'Get Limit', 
     orderTitle: `Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    thumbnail: 'https://telegra.ph/file/e518f1ae5447bc820c741.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
