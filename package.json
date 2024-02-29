@@ -1,5 +1,5 @@
 {
-    "name": "Kιɳα Bσƚ",
+    "name": "ikyofficial",
     "version": "7.0.1",
     "description": "Lightweight WhatsApp Bot",
     "depecrated": false,
@@ -27,16 +27,16 @@
         "ikyofficial",
         "baileys"
     ],
-    "homepage": "https://github.com/ikyalwaysgood/KINAMD",
+    "homepage": "https://github.com/ikyalwaysgood/Im-Iky-MD",
     "author": {
-        "name": "Iky Official"
+        "name": "Kιɳα Bσƚ"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ikyalwaysgood/KINAMD"
+        "url": "git+https://github.com/ikyalwaysgood/Im-Iky-MD"
     },
     "bugs": {
-        "url": "https://github.com/ikyalwaysgood/KINAMD"
+        "url": "https://github.com/ikyalwaysgood/Im-Iky-MD"
     },
     "license": "MIT",
     "dependencies": {
@@ -50,7 +50,6 @@
         "axios": "^0.27.2",
         "base64-to-image": "^1.0.2",
         "btch-downloader": "*",
-        "cfonts": "^2.10.0",
         "chalk": "^4.1.2",
         "cheerio": "^1.0.0-rc.12",
         "colors": "1.4.0",
@@ -58,7 +57,6 @@
         "didyoumean": "^1.2.2",
         "file-type": "^16.5.3",
         "form-data": "^4.0.0",
-        "g-i-s": "^2.1.6",
         "google-it": "^1.6.3",
         "human-readable": "^0.2.1",
         "hxz-api": "^1.0.1",
@@ -85,13 +83,11 @@
         "syntax-error": "^1.4.0",
         "tiktokdl": "^0.0.5",
         "terminal-image": "^2.0.0",
-        "translate-google-api": "^1.0.4",
         "url": "^0.11.0",
         "url-regex": "^5.0.0",
         "url-regex-safe": "^2.1.0",
         "util": "^0.12.4",
         "wa-sticker-formatter": "^4.3.2",
-        "xfarr-api": "^1.0.3",
         "yargs": "^17.5.1",
         "ytdl-core": "npm:@distube/ytdl-core@^4.13.3",
         "yt-search": "^2.10.3"
