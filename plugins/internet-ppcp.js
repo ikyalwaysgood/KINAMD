@@ -31,11 +31,11 @@ const { MessageType } = require('@adiwajshing/baileys')
      let randIndex = Math.floor(Math.random() * jsonData.length);
      let json = jsonData[randIndex];
      let randCowo= await getBuffer(json.cowo)
-     conn.sendMessage(m.chat, { image: randCowo, caption: '*Cowo*', quoted: m })
-	 // conn.sendMessage(m.chat, randCowo, MessageType.image,  { caption: '*Cowo*', quoted: m })
+     conn.sendMessage(m.chat, { image: randCowo, caption: '*Cowoknya by Kιɳα Bσƚ*', quoted: m })
+	 // conn.sendMessage(m.chat, randCowo, MessageType.image,  { caption: '*Cowoknya by Kιɳα Bσƚ*', quoted: m })
 	 let randCewe = await getBuffer(json.cewe)
-	conn.sendMessage(m.chat, { image: randCewe, caption: '*Cewe*', quoted: m })
-	 // conn.sendMessage(m.chat, randCewe, MessageType.image, { caption: '*Cewe*', quoted: m })
+	conn.sendMessage(m.chat, { image: randCewe, caption: '*Ceweknya by Kιɳα Bσƚ*', quoted: m })
+	 // conn.sendMessage(m.chat, randCewe, MessageType.image, { caption: '*Ceweknya by Kιɳα Bσƚ*', quoted: m })
 }
 handler.help = ['ppcouple']
 handler.tags = ['internet']
