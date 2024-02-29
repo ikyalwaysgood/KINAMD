@@ -1,9 +1,9 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
-  let pepe = 'https://telegra.ph/file/2e2eb7d093fec08fd00d4.jpg'
+  let pepe = 'https://telegra.ph/file/e518f1ae5447bc820c741.jpg'
   let baper = await fetch(pepe).then(a => a.buffer())
 
-  let diimz = '6281270120658@s.whatsapp.net'
+  let diimz = '6285794908894@s.whatsapp.net'
   let a = await conn.profilePictureUrl(conn.user.jid, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
   let b = await conn.profilePictureUrl(owner[0]+'@s.whatsapp.net', 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
   let c = pickRandom([a, b])
@@ -13,20 +13,20 @@ let handler = async (m, { conn }) => {
   description: ` *• SEWA OWNER/GROUP & UP TO PREMIUM •*
         
 1.  Owner / 30 Hari
-Rp. 30.000 Dana
+Rp. 30.000 Gopay
 Rp. 30.000 Pulsa
 
 2. Grup / 30 Hari
-Rp. 10.000 Dana
-Rp. 10.000 Pulsa
+Rp. 20.000 Gopay
+Rp. 20.000 Pulsa
 
 3. Premium / 30 Hari
-Rp. 10.000 Dana
-Rp. 10.000 Pulsa
+Rp. 15.000 Gopay
+Rp. 15.000 Pulsa
 
 4. Premium + Grup / 30 Hari
-Rp. 25.000 Dana
-Rp. 25.000 Pulsa
+Rp. 30.000 Gopay
+Rp. 30.000 Pulsa
 
 wa.me/${owner[0]}
 *Bukan Bot!!!* 
@@ -41,9 +41,9 @@ wa.me/${owner[0]}
   products:[{productId:'7487741964584083'}]}],
   headerImage: { productId: '7487741964584083',
   jpegThumbnail: baper },
-  businessOwnerJid: `6281270120658@s.whatsapp.net`
+  businessOwnerJid: `6285794908894@s.whatsapp.net`
   },
-  footerText: '©Diimz Official',
+  footerText: '©Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ',
   }},{})
   conn.relayMessage(prepare.key.remoteJid,prepare.message,{messageId:prepare.key.id})
   conn.sendContact(m.chat, numberowner, nameowner, m)
